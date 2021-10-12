@@ -1,2 +1,2 @@
 # ShoppingPma.github.io
-Ventas de Productos Panameños
+Ventas de Productos 
